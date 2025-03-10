@@ -1,9 +1,5 @@
 # Nanogo
 
-<p align="center">
-  <img src="img/nanogo.mhtml" alt="Nanogo - Go Board" width="500">
-</p>
-
 Nanogo is a Deep Learning project for training a neural network to play Go. The model is trained using self-play games from **Katago**, with a constraint of **fewer than 100,000 parameters** to ensure fair resource usage.
 
 ## Project Overview
