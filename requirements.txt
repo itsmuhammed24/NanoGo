@@ -1,0 +1,9 @@
+tensorflow==2.15.0
+numpy 
+matplotlib
+pandas
+pickle-mixin
+absl-py
+notebook
+ipykernel
+golois
