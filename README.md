@@ -44,7 +44,7 @@ NanoGo/
 
 ---
 
-##  Installation & Execution on macOS (⚠️ Apple Silicon specific)
+##  Installation & Execution on macOS 
 
 Some macOS versions may have issues with the default `clang++`. Here's the recommended approach:
 
